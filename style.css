@@ -1,0 +1,46 @@
+body{
+    text-align: center;
+    color:darkblue;
+    
+}
+.line{ background-color: chocolate;
+    height: 5px;
+    width:70px;
+    margin: 8px auto;
+
+}
+
+#App{
+    background-color:crimson;
+    height: 800px;
+    width: 100%
+    
+
+}
+
+#Games{
+    background-color:crimson;
+    height: 500px;
+    width: 100%
+    
+
+}
+
+#bots{
+    background-color:crimson;
+    height: 800px;
+    width: 100%
+    
+
+}
+
+img{
+    height: 400px;
+    width: 400px;
+    transition: transform 0.2s;
+    
+}
+
+img:hover{
+    transform:scale(0.9)
+}
